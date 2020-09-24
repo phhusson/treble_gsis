@@ -1,0 +1,40 @@
+{
+  "images": [
+    {
+      "name": "GSI ARM64",
+      "os_version": "R",
+      "cpu_abi": "arm64-v8a",
+      "details": "arm64-exp-RP1A.200720.009-6720564-019b517d",
+      "spl": "2020-09-05",
+      "tos": "https://dl.google.com/developers/android/gsi/gsi-11-tos.txt",
+      "uri": "https://dl.google.com/developers/android/rvc/images/gsi/aosp_arm64-exp-RP1A.200720.009-6720564-019b517d.zip"
+    },
+    {
+      "name": "GSI X86_64",
+      "os_version": "R",
+      "cpu_abi": "x86_64",
+      "details": "x86_64-exp-RP1A.200720.009-6720564-a541e9e4",
+      "spl": "2020-09-05",
+      "tos": "https://dl.google.com/developers/android/gsi/gsi-11-tos.txt",
+      "uri": "https://dl.google.com/developers/android/rvc/images/gsi/aosp_x86_64-exp-RP1A.200720.009-6720564-a541e9e4.zip"
+    },
+    {
+      "name": "GSI+GMS ARM64",
+      "os_version": "R",
+      "cpu_abi": "arm64-v8a",
+      "details": "gms_arm64-exp-RP1A.200720.009-6720564-c8273882",
+      "spl": "2020-09-05",
+      "tos": "https://dl.google.com/developers/android/gsi/gsi-11-tos.txt",
+      "uri": "https://dl.google.com/developers/android/rvc/images/gsi/gsi_gms_arm64-exp-RP1A.200720.009-6720564-c8273882.zip"
+    },
+    {
+      "name": "GSI+GMS X86",
+      "os_version": "R",
+      "cpu_abi": "x86",
+      "details": "gms_x86-exp-RP1A.200720.009-6720564-a5225575",
+      "spl": "2020-09-05",
+      "tos": "https://dl.google.com/developers/android/gsi/gsi-11-tos.txt",
+      "uri": "https://dl.google.com/developers/android/rvc/images/gsi/gsi_gms_x86-exp-RP1A.200720.009-6720564-a5225575.zip"
+    }
+  ]
+}
